@@ -1,4 +1,4 @@
-## driver state detection
+## Driver state detection
 
 This repository contains the code for a deep learning project that aims to detect driver state in real-time. The project was developed by Oussama Naji, Latifa El Bouga, and Soulala Achraf.
 
